@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Adopt-A-Pup</string>
+    <string name="pup_name">Name</string>
+    <string name="pup_age">Age</string>
+    <string name="pup_breed">Breed</string>
+    <string name="pup_height">Height</string>
+    <string name="pup_weight">Weight</string>
+    <string name="pup_personality">Personality</string>
+</resources>
